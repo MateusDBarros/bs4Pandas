@@ -6,6 +6,18 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1.2.3-orange)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.0.7-red)
 
+## ✨ Descrição
+
+Este projeto realiza **web scraping** para coletar dados de um site, extraindo informações sobre **países e suas capitais** e armazenando-as em um arquivo Excel. Após a coleta, o usuário pode pesquisar interativamente por um país ou capital.
+
+## ⚙️ Tecnologias Utilizadas
+
+- **Python 3.x**  
+- **Requests**: Para fazer requisições HTTP e obter o HTML do site.  
+- **BeautifulSoup**: Para extrair e manipular dados do HTML.  
+- **Pandas**: Para manipulação de tabelas e arquivos Excel.  
+- **OpenPyXL**: Para salvar e ler arquivos Excel (`.xlsx`).
+
 
 ## 🔧 Instalação
 Antes de rodar o projeto, instale as dependências necessárias:
